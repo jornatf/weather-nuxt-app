@@ -10,7 +10,7 @@ Check [demo here](https://weather-nuxt-app.vercel.app).
 
 ## Before starting
 
-This app uses a specific [weather API](https://weatherapi.com) where you need to generate an API Key. After, enter the generated key in your `.env` file like this: `API_KEY="{your_api_key}"`.
+This app uses a specific [weather API](https://weatherapi.com) where you need to generate an API Key. After, enter the generated key in your `.env` file like this: `NUXT_ENV_API_KEY="{your_api_key}"`.
 
 ## How it works ?
 

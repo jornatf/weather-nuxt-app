@@ -98,7 +98,7 @@ export default {
 			const urlParams = {
 				params: {
 					aqi: 'no',
-					key: process.env.API_KEY,
+					key: process.env.NUXT_ENV_API_KEY,
 					q: `${coords.lat},${coords.lng}`
 				}
 			}
