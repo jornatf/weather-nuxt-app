@@ -6,7 +6,7 @@
 
 Get weather in realtime !
 
-Check [demo here](https://weather-nuxt-app-demo.vercel.app).
+Check [demo here](https://weather-nuxt-app.vercel.app).
 
 ## Before starting
 
